@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[blog.azuresky.ca]]></title>
-  <link href="http://cbhl.github.com/atom.xml" rel="self"/>
-  <link href="http://cbhl.github.com/"/>
-  <updated>2012-01-05T22:40:27+00:00</updated>
-  <id>http://cbhl.github.com/</id>
+  <link href="http://blog.azuresky.ca/atom.xml" rel="self"/>
+  <link href="http://blog.azuresky.ca/"/>
+  <updated>2012-01-05T22:49:15+00:00</updated>
+  <id>http://blog.azuresky.ca/</id>
   <author>
     <name><![CDATA[Michael Chang]]></name>
     <email><![CDATA[michael.chang@azuresky.ca]]></email>
