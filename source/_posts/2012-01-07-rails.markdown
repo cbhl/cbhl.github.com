@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Rails"
+date: 2012-01-07 05:38
+comments: true
+categories: velocity, hack
+published: false
+---
+
+=== Prereqs
+sudo apt-get install build-essential libreadline-dev libssl-dev curl
+might need other prereqs
+
+=== install rvm
+=== install npm
+=== install node.js
+=== install coffee-script
+=== gem install bundler
+=== gem install rails
+=== gem install heroku
+create project
+init repo
+push to heroku
