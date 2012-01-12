@@ -14,7 +14,7 @@ module Jekyll
 
     def convert(content)
       begin
-        engine = Slim::Engine.new(content)
+        engine = Slim::Template.new() { content }
         engine.render
       rescue StandardError => e
           puts "!!! SLIM Error: " + e.message
