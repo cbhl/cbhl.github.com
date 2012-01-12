@@ -1,0 +1,7 @@
+| {% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
+doctype html
+html
+  head
+    title {{ page.title }}
+  body
+    | {{ content | expand_urls: root_url }}
