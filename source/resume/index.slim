@@ -5,5 +5,159 @@ comments: false
 sharing: false
 footer: false
 ---
-h1 Michael Chang
+
+scss:
+  @media (min-width: 750px) {
+    #resume {
+      /* coerce width on large desktops */
+      width: 750px;
+      margin: auto;
+    }
+  }
+  #resume {
+    font-family: Times New Roman, serif;
+  }
+  #resume table {
+    width: 100%;
+  }
+  #resume table td {
+    width: 30%;
+  }
+  #resume .left {
+    text-align: left;
+  }
+  #resume .center {
+    text-align: center;
+  }
+  #resume .right {
+    text-align: right;
+  }
+  #resume a {
+    color: #000;
+    text-decoration: none;
+  }
+  #resume p {
+    margin: 0;
+  }
+  #resume .address {
+    height: 3em;
+    vertical-align: top;
+  }
+  #resume .address-type {
+    font-weight: bold;
+  }
+
+div#resume
+  h1 Michael Chang
+  /! FIXME: Need to make this section adaptive on mobile.
+  table
+    tr
+      td.left
+        a href="mailto:m9chang@uwaterloo.ca" m9chang@uwaterloo.ca
+      td.center
+        a href="http://azuresky.ca/" http://azuresky.ca/
+      td.right
+        a href="tel:+1-647-705-5944" +1-647-705-5944
+    tr
+      td.left
+        div.address-type Local Address
+        div.address
+          markdown:
+            Room 225, Minota Hagey Residence  
+            University of Waterloo  
+            Waterloo, ON
+      td.center
+      td.right
+        div.address-type Permanent Address
+        div.address
+          markdown:
+            30 Doncrest Rd  
+            Richmond Hill, ON  
+  markdown:
+    Past Internships
+    ----------------
+    ### Agile Engineer, Xtreme Labs ###
+    #### Toronto, ON (September 2011 - December 2011) ####
+    * Co-developed Android Tablet application for a large motion picture exhibitor
+    * Contributed bug fixed to Android Phone application for a large motion picture exhibitor
+    * Developed in Rails 3 and CoffeeScript on an internal research project
+
+    ### Analytics (Mobile Growth), Facebook ###
+    #### Palo Alto, CA (January 2011 - April 2011) ####
+    * Built internal dashboards using internal tools for product managers within Facebook
+    * Queried Hive/Hadoop cluster to produce ad-hoc reports on request
+    * Tested internal builds of Facebook for Android
+
+    ### Web Developer/Data Analyst, SharpSchool ###
+    #### Toronto, ON (May 2010 - August 2010) ####
+    * Developed in C# and Silverlight on the Windows platform using Visual Studio 2010 and Team Foundation Server
+    * Assisted with UX testing on mobile (iOS) development project
+    * Provided technical consultation on codec and hardware selection for a video streaming project
+
+    ### Web Developer/Data Analyst, Intrafinity Inc. ###
+    #### Toronto, ON (June 2009 - September 2009) ####
+    * Developed internal reports using Microsoft SQL Server Reporting Services and Visual Studio 2008
+    * Assisted with triaging of support inquiries
+    * Maintained internal content migration tools written in C# and .NET
+
+    ### Web Developer, Intrafinity Inc. ###
+    #### Toronto, ON (June 2008 - August 2008) ####
+    * Developed in C# and ASP .NET on the Windows platform using Visual Studio 2005
+    * Co-built LDAP authentication backend for the company's software suite
+    * Co-designed SQL database tables and relationships to store user identifiers from LDAP
+
+    Extra-curriculars
+    -----------------
+
+    ### subdivide ###
+    * Co-built a collaborative real-time video subtitling tool in one weekend
+    * Participant in Winter 2012 VeloCity Venture Fund Competition
+    * Uses Rails, coffeescript, juggernaut (server push gem), git (distributed version control system)
+
+    ### mathNEWS ###
+    * Regularly contribute articles to mathNEWS, a fortnightly student-run newspaper
+    * Past articles discuss two-factor authentication and IPv6
+
+    ### Programming Contests ###
+    * Bronze medal at Stage 2 of the Canadian Computing Competition (2009 - Top 20 in Canada)
+    * Participated in USACO, DWITE, CCC, Google Highly Open Participation Contest
+
+    ### Robotics Competitions ###
+    * Programming lead for team that advanced to the FIRST Tech Challenge World Championships in Atlanta, GA in 2009
+    * Partcipated in FIRST Tech Challenge, VEX
+    * Volunteers at the FIRST Lego League Waterloo Regional (2010, 2011)
+
+    ### Open Source Software ###
+    * Contributed Markup Inheritance Screencast to the Apache Wicket project during the Google Highly Open Participation Contest in 2007-2008
+
+    Technical Knowledge
+    -------------------
+    ### Programming Languages ###
+    Python, Java, C/C++, Ruby, Perl, C# (ASP.NET, Silverlight)
+    ### Database ###
+    MySQL, Microsoft SQL Server
+    ### Operating Systems ###
+    Ubuntu Linux, Windows XP/7, Mac OS X
+    ### Mobile Development ###
+    Android, Windows Phone 7, iOS
+    ### Distributed/Grid/Cloud Computing ###
+    Elastic Compute Cloud (EC2), Heroku
+
+    Skills
+    ------
+    ### Eager to Learn ###
+    ### Competitive ###
+    ### Motivated to Work ###
+
+    Interests
+    ---------
+    * IPv6
+    * Distributed computing
+    * Mobile
+    * Anime
+
+    Education
+    ---------
+    ### Candidate for Bachelor of Software Engineering ###
+    University of Waterloo, Waterloo, Ontario, Canada. (2009 - 2014).
 
