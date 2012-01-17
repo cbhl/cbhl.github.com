@@ -4,7 +4,7 @@
   <title><![CDATA[Category: security | blog.azuresky.ca]]></title>
   <link href="http://blog.azuresky.ca/blog/categories/security/atom.xml" rel="self"/>
   <link href="http://blog.azuresky.ca/"/>
-  <updated>2012-01-17T03:50:53+00:00</updated>
+  <updated>2012-01-17T04:03:42+00:00</updated>
   <id>http://blog.azuresky.ca/</id>
   <author>
     <name><![CDATA[Michael Chang]]></name>
@@ -18,9 +18,7 @@
     <link href="http://blog.azuresky.ca/blog/2012/01/thoughts-on-two-factor-authentication/"/>
     <updated>2012-01-17T03:39:00+00:00</updated>
     <id>http://blog.azuresky.ca/blog/2012/01/thoughts-on-two-factor-authentication</id>
-    <content type="html"><![CDATA[<h1>Thoughts on Two-Factor Authentication</h1>
-
-<p><em>I originally wrote this article for Volume 117 of mathNEWS.</em></p>
+    <content type="html"><![CDATA[<p><em>I originally wrote this article for Volume 117 of mathNEWS.</em></p>
 
 <p><strong>WARNING:</strong> Two-Factor Authentication isn't for
 everybody. Just as it helps keep bad people out of your account(s), it
