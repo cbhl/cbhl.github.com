@@ -7,9 +7,6 @@ author: Michael Chang
 categories: mathNEWS, security
 ---
 
-Thoughts on Two-Factor Authentication
-=====================================
-
 *I originally wrote this article for Volume 117 of mathNEWS.*
 
 **WARNING:** Two-Factor Authentication isn't for
