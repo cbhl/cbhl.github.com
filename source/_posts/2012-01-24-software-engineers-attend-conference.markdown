@@ -7,6 +7,8 @@ categories: mathnews
 published: false
 ---
 
+ _I originally wrote this article for Volume 118, Issue 2 of mathNEWS._
+ 
 Last week, nearly two dozen students represented Waterloo at the Canadian Undergraduate Software Engineering Conference (CUSEC) in Montreal, Quebec. In between shivering through the Montreal Winter, discovering the RESO (underground city), and trying to help egg-cat with their homework assignments, we absorbed knowledge from the following speakers:
 
 Alexis Ohanian, founder of Reddit, spoke about progress made against SOPA/PIPA; how it is the World's Internet, not America's Internet; how the fight isn't nearly over yet.

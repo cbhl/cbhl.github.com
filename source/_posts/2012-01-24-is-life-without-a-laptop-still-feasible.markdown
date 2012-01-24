@@ -7,6 +7,8 @@ categories: mathnews
 published: false
 ---
 
+_I originally wrote this article for Volume 118, Issue 2 of mathNEWS._
+
 When I was in first year, I went without a laptop.
 
 Why?

@@ -7,6 +7,8 @@ categories: mathnews
 published: false
 ---
 
+ _I originally wrote this article for Volume 118, Issue 2 of mathNEWS._
+ 
 I wonder when 4 GB+ virtual machine images became the norm in CS classes at this institution, but it's clear that the network infrastructure outside of campus is clearly not ready to handle dozens of students downloading such large files all at once.
 
 zsync is a tool that uses the rsync algorithm to download a file from a server, but with pre-computed metadata to help the algorithm scale well (and run over regular web servers). This allows users to resume incomplete downloads and verify your file is complete in one step. Packages may be available for your Linux distribution of choice. As of the time of writing, it's available on homebrew (Mac) and Cygwin (Windows) as well. Sources can also be downloaded from <a href="http://zsync.moria.org.uk/downloads">http://zsync.moria.org.uk/downloads</a>.
