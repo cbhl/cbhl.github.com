@@ -3,6 +3,7 @@ layout: post
 title: "Is Life Without a Laptop Still Feasible?"
 date: 2012-01-27 05:02
 comments: true
+author: Michael Chang
 categories: mathnews
 ---
 
@@ -19,7 +20,7 @@ Laptops are heavy, expensive, or both. Their bright, ever-flashing screens poten
 This term, I realized something was different. The Piazza group for CS 136 contained this question:
 
 <blockquote>
-<strong>Linux Labs</strong>
+<strong>Linux Labs</strong><br />
 Just wondering where exactly the Linux labs are? http://www.cs.uwaterloo.ca/cscf/teaching/labs Lists the Linux labs as CS488 students only - any ideas?</blockquote>
 
 And, in one of the follow-up responses:
@@ -33,5 +34,3 @@ Not that there aren't options. There are certainly alternatives -- one could use
 One could also skip lectures to do the assignments during the few precious hours when the labs actually are open, Monday to Friday, 0800 to 2100. Gosh, my bank has better hours than that. It's open on Saturday, for example.
 
 As for me; I've been borrowing my friend's old laptops for almost eight months now. I hate this feeling of being constantly chained to the edges of the room where laptop outlets exist. I miss all times I met and absorbed knowledge from upper-years at two in the morning. I feel less like a ninja and more like a zombie. I'm also constantly afraid that I'll submit an assignment that works <em>just fine</em> when run over SSH X-forwarding, and yet mysteriously breaks when run on ye olde thin client. Perhaps I'm being paranoid. I do wonder, though, whether I'd survive, if I was a first-year today.
-
-<em>!able</em>
