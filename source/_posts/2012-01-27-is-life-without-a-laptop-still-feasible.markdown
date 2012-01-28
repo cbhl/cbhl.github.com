@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Is Life Without a Laptop Still Feasible?"
-date: 2012-01-24 05:02
+date: 2012-01-27 05:02
 comments: true
 categories: mathnews
-published: false
 ---
 
 _I originally wrote this article for Volume 118, Issue 2 of mathNEWS._
