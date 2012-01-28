@@ -2,11 +2,23 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://blog.azuresky.ca/blog/2012/01/thoughts-on-two-factor-authentication/</loc>
-        <lastmod>2012-01-17T04:02:54+00:00</lastmod>
+        <lastmod>2012-01-28T08:44:25+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.azuresky.ca/blog/2012/01/is-life-without-a-laptop-still-feasible/</loc>
+        <lastmod>2012-01-28T09:02:56+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.azuresky.ca/blog/2012/01/software-engineers-attend-conference/</loc>
+        <lastmod>2012-01-28T08:57:57+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.azuresky.ca/blog/2012/01/zsync-client-side-rsync-over-http/</loc>
+        <lastmod>2012-01-28T09:02:48+00:00</lastmod>
     </url>
     <url>
         <loc>http://blog.azuresky.ca/blog/archives/</loc>
-        <lastmod>2012-01-17T04:02:54+00:00</lastmod>
+        <lastmod>2012-01-28T09:02:56+00:00</lastmod>
     </url>
     <url>
         <loc>http://blog.azuresky.ca/resume/gmail.html</loc>
@@ -30,6 +42,6 @@
     </url>
     <url>
         <loc>http://blog.azuresky.ca/</loc>
-        <lastmod>2012-01-17T04:02:54+00:00</lastmod>
+        <lastmod>2012-01-28T09:02:56+00:00</lastmod>
     </url>
 </urlset>

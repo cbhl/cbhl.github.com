@@ -4,7 +4,7 @@
   <title><![CDATA[blog.azuresky.ca]]></title>
   <link href="http://blog.azuresky.ca/atom.xml" rel="self"/>
   <link href="http://blog.azuresky.ca/"/>
-  <updated>2012-01-28T08:09:15+00:00</updated>
+  <updated>2012-01-28T09:04:11+00:00</updated>
   <id>http://blog.azuresky.ca/</id>
   <author>
     <name><![CDATA[Michael Chang]]></name>
@@ -12,6 +12,101 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[zsync: client-side rsync over HTTP]]></title>
+    <link href="http://blog.azuresky.ca/blog/2012/01/zsync-client-side-rsync-over-http/"/>
+    <updated>2012-01-27T05:03:00+00:00</updated>
+    <id>http://blog.azuresky.ca/blog/2012/01/zsync-client-side-rsync-over-http</id>
+    <content type="html"><![CDATA[<p> <em>I originally wrote this article for Volume 118, Issue 2 of mathNEWS.</em></p>
+
+<p>I wonder when 4 GB+ virtual machine images became the norm in CS classes at this institution, but it&#8217;s clear that the network infrastructure outside of campus is clearly not ready to handle dozens of students downloading such large files all at once.</p>
+
+<p>zsync is a tool that uses the rsync algorithm to download a file from a server, but with pre-computed metadata to help the algorithm scale well (and run over regular web servers). This allows users to resume incomplete downloads and verify your file is complete in one step. Packages may be available for your Linux distribution of choice. As of the time of writing, it&#8217;s available on homebrew (Mac) and Cygwin (Windows) as well. Sources can also be downloaded from <a href="http://zsync.moria.org.uk/downloads">http://zsync.moria.org.uk/downloads</a>.</p>
+
+<p>I first ran into zsync when I was downloading a Ubuntu release, and I&#8217;ve started using it over jigdo.</p>
+
+<p>For TAs and support staff, making content available by zsync is straightforward. Simply run:</p>
+
+<p><code>zsyncmake -C -e -u <em>&lt;url&gt;</em> <em>&lt;file&gt;</em></code></p>
+
+<p>For example, for the CS 136 VM, one could run:</p>
+
+<p><code>zsyncmake -C -e -u http://www.student.cs.uwaterloo.ca/~cs136/VirtualMachine/CS136.ova ~cs136/public_html/VirtualMachine/CS136.ova</code></p>
+
+<p>This creates a <em>&lt;file&gt;.zsync</em> file containing metadata and checksums which the zsync client can use. Simply make this file available in public_html (perhaps in the same folder as the Open Virtualization Archive (OVA) itself).</p>
+
+<p>For students, once zsync is installed, downloading a file is as simple as</p>
+
+<p><code>zsync <em>&lt;url&gt;</em></code></p>
+
+<p>Where <em>&lt;url&gt;</em> is the URL of the .zsync metadata file. The man page contains details on other flags, which may be useful if you are resuming an incomplete download or trying to sync from a file with a different name and similar contents (e.g. a previous version of a virtual machine).</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Software Engineers Attend Conference]]></title>
+    <link href="http://blog.azuresky.ca/blog/2012/01/software-engineers-attend-conference/"/>
+    <updated>2012-01-27T05:03:00+00:00</updated>
+    <id>http://blog.azuresky.ca/blog/2012/01/software-engineers-attend-conference</id>
+    <content type="html"><![CDATA[<p> <em>I originally wrote this article for Volume 118, Issue 2 of mathNEWS.</em></p>
+
+<p>Last week, nearly two dozen students represented Waterloo at the Canadian Undergraduate Software Engineering Conference (CUSEC) in Montreal, Quebec. In between shivering through the Montreal Winter, discovering the RESO (underground city), and trying to help egg-cat with their homework assignments, we absorbed knowledge from the following speakers:</p>
+
+<p><strong>Alexis Ohanian</strong>, founder of Reddit, spoke about progress made against SOPA/PIPA; how it is the World&#8217;s Internet, not America&#8217;s Internet; how the fight isn&#8217;t nearly over yet.</p>
+
+<p><strong>Jeremy Ashkenas</strong>, creator of CoffeeScript, argued the case for code as an art form, rather than just a process to be engineered.</p>
+
+<p><strong>Greg Kroah-Hartman</strong>, Linux kernel developer, talked about how big the kernel is, how much it changes every day, and how to get involved contributing patches as a kernel newbie.</p>
+
+<p><strong>Bret Victor</strong>, known for designing experimental UI concepts at Apple, discussed how current code-compile-debug cycles require the programmer to execute code in one&#8217;s head, and that the latency of interaction for developers makes it difficult to discover novel things about code. He also demoed a real-time JavaScript IDE concept that updated a canvas in real time, allowed <a href="http://worrydream.com/ScrubbingCalculator/">variables&#8217; values to be tweaked by dragging sliders</a>, and displayed the <a href="http://worrydream.com/LadderOfAbstraction/">trajectory of a player across time</a>. He then spoke about having a guiding principle, gave examples of historical figures with guiding principles, and then discussed the pros and cons of living by your own guiding principle &#8211; to a standing ovation.</p>
+
+<p><strong>Manveer Heir</strong>, Senior Designer at BioWare, warned everyone sternly to stay as far away from the game industry as possible &#8211; before telling those who remained how to get in, and what it&#8217;s like in the industry.</p>
+
+<p>In between speakers, we ran around handing out resumes and making pleasant conversation, rode up and down the hotel elevators, and talked in our sleep. We played chess amongst ourselves at games night, taught the first-years how to tip at a pub, and made it back to Waterloo.</p>
+
+<p>Now for a week of catching up on assignments and studying for quizzes.</p>
+
+<p>Maybe we&#8217;ll actually get a chance to pay back some of our sleep debt. Next week.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Is Life Without a Laptop Still Feasible?]]></title>
+    <link href="http://blog.azuresky.ca/blog/2012/01/is-life-without-a-laptop-still-feasible/"/>
+    <updated>2012-01-27T05:02:00+00:00</updated>
+    <id>http://blog.azuresky.ca/blog/2012/01/is-life-without-a-laptop-still-feasible</id>
+    <content type="html"><![CDATA[<p><em>I originally wrote this article for Volume 118, Issue 2 of mathNEWS.</em></p>
+
+<p>When I was in first year, I went without a laptop.</p>
+
+<p>Why?</p>
+
+<p>Laptops are heavy, expensive, or both. Their bright, ever-flashing screens potentially distract dozens of one&#8217;s peers when used in lecture halls. You&#8217;re always hunting for the next electrical outlet, so that you&#8217;re not locked out of your own data by a dead battery. They depreciate in value really quickly.</p>
+
+<p><em>They</em> told me that it was possible to complete all my assignments without a laptop. We had labs on campus, after all. Granted, campus was really far from Ron Eydt Village for those long, cold, February nights, but at least they were there. At least one was open, no matter what hour of day or night. If there was ever a night where I had trouble sleeping, I could procrastinate on Facebook for an hour or two before diving into nano (&#8211; I hadn&#8217;t yet bothered to try out vim or emacs &#8211;), finishing off my assignment, and uploading my code to Marmoset.</p>
+
+<p>This term, I realized something was different. The Piazza group for CS 136 contained this question:</p>
+
+<blockquote>
+<strong>Linux Labs</strong><br />
+Just wondering where exactly the Linux labs are? http://www.cs.uwaterloo.ca/cscf/teaching/labs Lists the Linux labs as CS488 students only - any ideas?</blockquote>
+
+
+<p>And, in one of the follow-up responses:</p>
+
+<blockquote>So I can login in MC3006, but I&#8217;m not logging into a Ubuntu system. I have gedit, but not RunC. What am I screwing up here?</blockquote>
+
+
+<p>It occurs to me that there no longer appears to be a documented 24/7 X11/RDP lab for general use by CS students.</p>
+
+<p>Not that there aren&#8217;t options. There are certainly alternatives &#8211; one could use the RDP clients maintained by MFCF to access their Solaris and Windows machines, and then use SSH (and probably X-forwarding) to access the undergraduate CS environment. One could likewise use SSH/X-forwarding/Portable Xming on the Nexus machines maintained by other faculties, like Engineering or AHS. Or one could figure out how to get X-forwarding to work in one of the Mac labs &#8211; though that tends to be more hit-and-miss than I&#8217;d like.</p>
+
+<p>One could also skip lectures to do the assignments during the few precious hours when the labs actually are open, Monday to Friday, 0800 to 2100. Gosh, my bank has better hours than that. It&#8217;s open on Saturday, for example.</p>
+
+<p>As for me; I&#8217;ve been borrowing my friend&#8217;s old laptops for almost eight months now. I hate this feeling of being constantly chained to the edges of the room where laptop outlets exist. I miss all times I met and absorbed knowledge from upper-years at two in the morning. I feel less like a ninja and more like a zombie. I&#8217;m also constantly afraid that I&#8217;ll submit an assignment that works <em>just fine</em> when run over SSH X-forwarding, and yet mysteriously breaks when run on ye olde thin client. Perhaps I&#8217;m being paranoid. I do wonder, though, whether I&#8217;d survive, if I was a first-year today.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Thoughts on Two-Factor Authentication]]></title>
