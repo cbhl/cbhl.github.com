@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Category: mathNEWS, - blog.azuresky.ca</title>
+  <title>zsync: client-side rsync over HTTP - blog.azuresky.ca</title>
   <meta name="author" content="Michael Chang">
 
   
-  <meta name="description" content="Category: mathNEWS,">
+  <meta name="description" content="I originally wrote this article for Volume 118, Issue 2 of mathNEWS. I wonder when 4 GB+ virtual machine images became the norm in CS classes at &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://blog.azuresky.cablog/categories/mathnews-">
+  <link rel="canonical" href="http://blog.azuresky.ca/blog/2012/01/zsync-client-side-rsync-over-http">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -56,6 +56,7 @@
   
 <ul class="main-navigation">
   <li><a href="/">Blog</a></li>
+  <li><a href="/resume">Resume</a></li>
   <li><a href="/blog/archives">Archives</a></li>
 </ul>
 
@@ -63,35 +64,110 @@
   <div id="main">
     <div id="content">
       <div>
-<article role="article">
+<article class="hentry" role="article">
   
   <header>
-    <h1 class="entry-title">Category: mathNEWS,</h1>
+    
+      <h1 class="entry-title">Zsync: Client-side Rsync Over HTTP</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-01-27T05:03:00+00:00" pubdate data-updated="true">Jan 27<span>th</span>, 2012</time>
+        
+      </p>
     
   </header>
-  
-  <div id="blog-archives" class="category">
 
 
+<div class="entry-content"><p> <em>I originally wrote this article for Volume 118, Issue 2 of mathNEWS.</em></p>
 
-  
-  <h2>2012</h2>
+<p>I wonder when 4 GB+ virtual machine images became the norm in CS classes at this institution, but it&#8217;s clear that the network infrastructure outside of campus is clearly not ready to handle dozens of students downloading such large files all at once.</p>
 
-<article>
-  
-<h1><a href="/blog/2012/01/thoughts-on-two-factor-authentication/">Thoughts on Two-Factor Authentication</a></h1>
-<time datetime="2012-01-17T03:39:00+00:00" pubdate><span class='month'>Jan</span> <span class='day'>17</span> <span class='year'>2012</span></time>
+<p>zsync is a tool that uses the rsync algorithm to download a file from a server, but with pre-computed metadata to help the algorithm scale well (and run over regular web servers). This allows users to resume incomplete downloads and verify your file is complete in one step. Packages may be available for your Linux distribution of choice. As of the time of writing, it&#8217;s available on homebrew (Mac) and Cygwin (Windows) as well. Sources can also be downloaded from <a href="http://zsync.moria.org.uk/downloads">http://zsync.moria.org.uk/downloads</a>.</p>
 
-<footer>
-  <span class="categories">posted in <a class='category' href='/blog/categories/mathnews-/'>mathNEWS,</a>, <a class='category' href='/blog/categories/security/'>security</a></span>
-</footer>
+<p>I first ran into zsync when I was downloading a Ubuntu release, and I&#8217;ve started using it over jigdo.</p>
 
+<p>For TAs and support staff, making content available by zsync is straightforward. Simply run:</p>
 
-</article>
+<p><code>zsyncmake -C -e -u <em>&lt;url&gt;</em> <em>&lt;file&gt;</em></code></p>
 
+<p>For example, for the CS 136 VM, one could run:</p>
+
+<p><code>zsyncmake -C -e -u http://www.student.cs.uwaterloo.ca/~cs136/VirtualMachine/CS136.ova ~cs136/public_html/VirtualMachine/CS136.ova</code></p>
+
+<p>This creates a <em>&lt;file&gt;.zsync</em> file containing metadata and checksums which the zsync client can use. Simply make this file available in public_html (perhaps in the same folder as the Open Virtualization Archive (OVA) itself).</p>
+
+<p>For students, once zsync is installed, downloading a file is as simple as</p>
+
+<p><code>zsync <em>&lt;url&gt;</em></code></p>
+
+<p>Where <em>&lt;url&gt;</em> is the URL of the .zsync metadata file. The man page contains details on other flags, which may be useful if you are resuming an incomplete download or trying to sync from a file with a different name and similar contents (e.g. a previous version of a virtual machine).</p>
 </div>
 
+
+  <footer>
+    <p class="meta">
+      
   
+
+<span class="byline author vcard">Posted by <span class="fn">Michael Chang</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-01-27T05:03:00+00:00" pubdate data-updated="true">Jan 27<span>th</span>, 2012</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/mathnews/'>mathnews</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.azuresky.ca/blog/2012/01/zsync-client-side-rsync-over-http/" data-via="cbhl" data-counturl="http://blog.azuresky.ca/blog/2012/01/zsync-client-side-rsync-over-http/" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2012/01/software-engineers-attend-conference/" title="Previous Post: Software Engineers Attend Conference">&laquo; Software Engineers Attend Conference</a>
+      
+      
+    </p>
+  </footer>
 </article>
 
 </div>
@@ -101,6 +177,18 @@
     <section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/01/zsync-client-side-rsync-over-http/">zsync: client-side rsync over HTTP</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/01/software-engineers-attend-conference/">Software Engineers Attend Conference</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/01/is-life-without-a-laptop-still-feasible/">Is Life Without a Laptop Still Feasible?</a>
+      </li>
     
       <li class="post">
         <a href="/blog/2012/01/thoughts-on-two-factor-authentication/">Thoughts on Two-Factor Authentication</a>
