@@ -4,7 +4,7 @@ title: "zsync: client-side rsync over HTTP"
 date: 2012-01-27 05:03
 comments: true
 author: Michael Chang
-categories: mathnews
+categories: mathNEWS
 ---
 
  _I originally wrote this article for Volume 118, Issue 2 of mathNEWS._
