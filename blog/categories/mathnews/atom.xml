@@ -4,7 +4,7 @@
   <title><![CDATA[Category: mathNEWS | azure sky]]></title>
   <link href="http://blog.azuresky.ca/blog/categories/mathnews/atom.xml" rel="self"/>
   <link href="http://blog.azuresky.ca/"/>
-  <updated>2012-02-07T05:03:57+00:00</updated>
+  <updated>2012-02-11T16:20:58+00:00</updated>
   <id>http://blog.azuresky.ca/</id>
   <author>
     <name><![CDATA[Michael Chang]]></name>
@@ -12,6 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[What I Really Wish I Knew In 1B]]></title>
+    <link href="http://blog.azuresky.ca/blog/2012/02/what-i-really-wish-i-knew-in-1b/"/>
+    <updated>2012-02-11T11:13:00+00:00</updated>
+    <id>http://blog.azuresky.ca/blog/2012/02/what-i-really-wish-i-knew-in-1b</id>
+    <content type="html"><![CDATA[<p><em>I originally wrote this article for
+<a href="http://mathnews.uwaterloo.ca/wordpress/?p=1809">Volume 118, Issue 3</a>
+of mathNEWS.</em></p>
+
+<h2>Sleep is Important</h2>
+
+<p>It's easy to get caught up in interviews, assignments, projects,
+midterms, and late nights playing board games. Don't forget to sleep!
+As much as your friends may brag about getting through the week on
+three hours of sleep, you'll be much more productive if your manage
+your energy and get enough sleep through the week.</p>
+
+<h2>Find Your Passion</h2>
+
+<p>You will find many opportunities to make decisions in your life. You might
+be choosing between sleeping or studying for another three hours, between
+a co-op opportunity in the San Francisco Bay Area or a co-op opportunity
+in Kitchener, or between pasta or breaded fish at the cafeteria.</p>
+
+<p>So why are you wasting your time doing things you don't like and that
+won't take you a step closer to reaching your goals? When you put down
+this paper, go do something that will make your life better.</p>
+
+<h2>Don't Date Someone From Your Cohort</h2>
+
+<p>If you are (un)fortunate enough to be in a program with a cohort, think
+<strong>very carefully</strong> before dating someone in your class. There are so many
+ways it could end horribly. I'll let your imagination run wild here.</p>
+
+<h2>Volunteering</h2>
+
+<p>If you were one of the people who enjoyed volunteering in high school,
+don't just give up on it now that you're here! Even if you're not in
+Engineering, WE-Connect, part of Waterloo Engineering Outreach, is
+involved with many events where you can get involved. Every year,
+volunteers are needed for the FIRST Lego League and the FIRST Robotics
+Regional Competition on campus. Become an Orientation leader. Start a
+business on campus. Run for student government. Get involved!</p>
+
+<h2>Internet</h2>
+
+<p>Whenever you go on Facebook, Twitter, or OMGUW, remember that you're
+representing the university - whether you like it or not. We'll have to
+see whether we're going to clamp down and not put anything on the
+Internet, or whether we're going to accept that people do stupid things
+and that it's funny. Until then, think before you post.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[zsync: client-side rsync over HTTP]]></title>
