@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Recipes | azure sky]]></title>
+  <link href="http://blog.azuresky.ca/blog/categories/recipes/atom.xml" rel="self"/>
+  <link href="http://blog.azuresky.ca/"/>
+  <updated>2012-02-14T01:14:04+00:00</updated>
+  <id>http://blog.azuresky.ca/</id>
+  <author>
+    <name><![CDATA[Michael Chang]]></name>
+    <email><![CDATA[michael.chang@azuresky.ca]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Oreo Cheesecake Cupcakes]]></title>
+    <link href="http://blog.azuresky.ca/blog/2012/02/oreo-cheesecake-cupcakes/"/>
+    <updated>2012-02-14T01:04:00+00:00</updated>
+    <id>http://blog.azuresky.ca/blog/2012/02/oreo-cheesecake-cupcakes</id>
+    <content type="html"><![CDATA[<ol>
+<li>Preheat oven to <strong>275 F (135 C)</strong>.</li>
+<li>Line <strong>16 muffin tins</strong> with paper liners. (Fill empty slots in a
+muffin tin with water.)</li>
+<li>Place <strong>one oreo (whole)</strong> in the bottom of each of the sixteen cups.</li>
+<li>Beat <strong>2 8-oz packages cream cheese</strong>.</li>
+<li>Gradually beat in <strong>1/2 cup sugar</strong> and <strong>1/2 teaspoon vanilla</strong>.</li>
+<li>Gradually pour in <strong>2 large eggs, lightly beaten</strong>.</li>
+<li>Beat in <strong>1/2 cup sour cream</strong> and a <strong>pinch of salt</strong>.</li>
+<li><strong>Pour</strong> batter into the tins, filling each almost to the top.</li>
+<li><strong>Bake</strong>, rotating pan halfway through, until filling is set (about
+22-25 minutes).</li>
+<li><strong>Cool</strong> in pans at least 15 minutes, then <strong>refrigerate</strong> at least
+four hours.</li>
+</ol>
+
+]]></content>
+  </entry>
+  
+</feed>
