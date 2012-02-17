@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Random | azure sky]]></title>
+  <link href="http://blog.azuresky.ca/blog/categories/random/atom.xml" rel="self"/>
+  <link href="http://blog.azuresky.ca/"/>
+  <updated>2012-02-17T07:56:09+00:00</updated>
+  <id>http://blog.azuresky.ca/</id>
+  <author>
+    <name><![CDATA[Michael Chang]]></name>
+    <email><![CDATA[michael.chang@azuresky.ca]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Thoughts on French Toast]]></title>
+    <link href="http://blog.azuresky.ca/blog/2012/02/thoughts-on-french-toast/"/>
+    <updated>2012-02-17T07:51:00+00:00</updated>
+    <id>http://blog.azuresky.ca/blog/2012/02/thoughts-on-french-toast</id>
+    <content type="html"><![CDATA[<p>Attempted to make Baked French Toast today. Some thoughts for next time:</p>
+
+<ul>
+<li>Bread is supposed to absorb lots of egg/milk mixture. Adding more bread
+is generally a bad idea.</li>
+<li>Consider making egg/milk mixture ahead of time to make the recipe
+easier to prepare. Or let the bread sit in the mixture in the fridge.</li>
+<li>Add lots of cinnamon.</li>
+<li>Consider how to add moisture -- syrup, fruit, jam all come to mind.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
