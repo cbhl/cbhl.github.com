@@ -2,35 +2,43 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://blog.azuresky.ca/blog/2012/01/thoughts-on-two-factor-authentication/</loc>
-        <lastmod>2012-01-28T08:44:25+00:00</lastmod>
+        <lastmod>2012-02-25T09:10:40+00:00</lastmod>
     </url>
     <url>
         <loc>http://blog.azuresky.ca/blog/2012/01/is-life-without-a-laptop-still-feasible/</loc>
-        <lastmod>2012-01-30T07:38:35+00:00</lastmod>
+        <lastmod>2012-02-25T09:10:31+00:00</lastmod>
     </url>
     <url>
         <loc>http://blog.azuresky.ca/blog/2012/01/software-engineers-attend-conference/</loc>
-        <lastmod>2012-01-30T07:38:40+00:00</lastmod>
+        <lastmod>2012-02-25T09:10:25+00:00</lastmod>
     </url>
     <url>
         <loc>http://blog.azuresky.ca/blog/2012/01/zsync-client-side-rsync-over-http/</loc>
-        <lastmod>2012-01-30T07:38:45+00:00</lastmod>
+        <lastmod>2012-02-25T09:08:30+00:00</lastmod>
     </url>
     <url>
         <loc>http://blog.azuresky.ca/blog/2012/02/what-i-really-wish-i-knew-in-1b/</loc>
-        <lastmod>2012-02-11T16:20:15+00:00</lastmod>
+        <lastmod>2012-02-25T09:10:16+00:00</lastmod>
     </url>
     <url>
         <loc>http://blog.azuresky.ca/blog/2012/02/oreo-cheesecake-cupcakes/</loc>
-        <lastmod>2012-02-14T01:13:36+00:00</lastmod>
+        <lastmod>2012-02-25T09:06:16+00:00</lastmod>
     </url>
     <url>
         <loc>http://blog.azuresky.ca/blog/2012/02/thoughts-on-french-toast/</loc>
-        <lastmod>2012-02-17T07:55:08+00:00</lastmod>
+        <lastmod>2012-02-25T09:10:07+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.azuresky.ca/blog/2012/02/bacon-wrapped-asparagus/</loc>
+        <lastmod>2012-02-25T09:07:23+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.azuresky.ca/blog/2012/02/oven-baked-grilled-cheese/</loc>
+        <lastmod>2012-02-25T12:07:47+00:00</lastmod>
     </url>
     <url>
         <loc>http://blog.azuresky.ca/blog/archives/</loc>
-        <lastmod>2012-02-17T07:55:08+00:00</lastmod>
+        <lastmod>2012-02-25T12:07:47+00:00</lastmod>
     </url>
     <url>
         <loc>http://blog.azuresky.ca/resume/gmail.html</loc>
@@ -58,6 +66,6 @@
     </url>
     <url>
         <loc>http://blog.azuresky.ca/</loc>
-        <lastmod>2012-02-17T07:55:08+00:00</lastmod>
+        <lastmod>2012-02-25T12:07:47+00:00</lastmod>
     </url>
 </urlset>
