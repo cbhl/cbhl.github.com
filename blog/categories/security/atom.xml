@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: security | azure sky]]></title>
+  <title><![CDATA[Category: Security | azure sky]]></title>
   <link href="http://blog.azuresky.ca/blog/categories/security/atom.xml" rel="self"/>
   <link href="http://blog.azuresky.ca/"/>
-  <updated>2012-02-17T07:56:09+00:00</updated>
+  <updated>2012-02-25T12:08:56+00:00</updated>
   <id>http://blog.azuresky.ca/</id>
   <author>
     <name><![CDATA[Michael Chang]]></name>
