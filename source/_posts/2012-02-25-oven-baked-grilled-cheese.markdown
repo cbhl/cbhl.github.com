@@ -29,3 +29,25 @@ Tips and Suggestions
   can't eat that much all at once.
 - I've only made this recipe once. Consider it a work in progress.
 
+
+<!--
+
+<ol>
+    <li>Pre-heat oven to <strong>400 &deg;F (205 &deg;C)</strong>.</li>
+    <li><strong>Line (a) cookie sheet(s)</strong> with aluminum foil.</li>
+
+    <li>Perform n times, once for each sandwich:</li>
+<ol>
+    <li>Spread <strong>a slice of bread</strong> with <strong>real mayonnaise</strong> on the outer face, and lay mayonnaise side down, on the lined cookie sheet.</li>
+    <li>Place a <strong>slice of ham</strong> (or five) on top of the slice of bread on the cookie sheet.</li>
+    <li>Place a <strong>cheese slice</strong> (or two) on top of the slice(s) of ham.</li>
+    <li>Spread <strong>another slice of bread</strong> with mayonnaise on <strong>both sides</strong>, and lay on top of the cheese slice(s) to form a sandwich.</li></ol>
+
+    <li><strong>Bake</strong> for <strong>four to six minutes</strong>, then <strong>flip</strong> the sandwiches and bake for another <strong>three to five minutes</strong>.</li>
+</ol>
+
+<em>Tip: No mayonnaise? Substitute margarine, but spread it only on the outer faces of the sandwich. Avoid "salad dressing", as it does not have a high enough oil content.</em>
+
+!able
+
+-->
