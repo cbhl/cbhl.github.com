@@ -4,7 +4,7 @@
   <title><![CDATA[azure sky]]></title>
   <link href="http://blog.azuresky.ca/atom.xml" rel="self"/>
   <link href="http://blog.azuresky.ca/"/>
-  <updated>2012-03-03T06:46:28+00:00</updated>
+  <updated>2012-03-03T06:55:58+00:00</updated>
   <id>http://blog.azuresky.ca/</id>
   <author>
     <name><![CDATA[Michael Chang]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lndr.me for Windows Phone 7]]></title>
+    <link href="http://blog.azuresky.ca/blog/2012/03/lndr-dot-me-for-windows-phone-7/"/>
+    <updated>2012-03-03T06:49:00+00:00</updated>
+    <id>http://blog.azuresky.ca/blog/2012/03/lndr-dot-me-for-windows-phone-7</id>
+    <content type="html"><![CDATA[<p><img src="http://blog.azuresky.ca/images/lndr_wp7.jpg" alt="Screenshot of Lndr.me for WP7" /></p>
+
+<p>Today was the 5th <a href="http://sehackday.com/">SE Hack Day</a>. I decided to
+build a Windows Phone 7 application for
+<a href="http://petersobot.com">Peter Sobot</a>&#8217;s laundry-tracking app
+<a href="http://lndr.me/">lndr.me</a>.</p>
+
+<p>Having the toolkit and phone already set up and knowing to use Json.NET
+really helped make things go more smoothly.</p>
+
+<p>Find the source for
+<a href="https://github.com/cbhl/LndrMeApp">Lndr.me for Windows Phone 7</a> on
+GitHub.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Oven-Baked Grilled Cheese]]></title>
