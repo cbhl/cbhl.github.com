@@ -9,3 +9,5 @@ published: false
 
 _Remarks on 3A thus far... and passing the halfway point of my undergraduate career._
 
+_It snowed wonderfully outside last night, so we went outside to trample
+all over the field._
