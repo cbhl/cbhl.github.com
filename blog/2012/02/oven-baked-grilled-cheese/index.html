@@ -214,6 +214,23 @@ can&#8217;t eat that much all at once.</li>
 </section>
 
 <section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("cbhl", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/cbhl" class="twitter-follow-button" data-show-count="false">Follow @cbhl</a>
+  
+</section>
+
+
+<section>
   <h1>Github Repos</h1>
   <ul id="gh_repos">
     <li class="loading">Status updating...</li>
@@ -240,23 +257,6 @@ can&#8217;t eat that much all at once.</li>
     });
   </script>
   <script src="/javascripts/github.js" type="text/javascript"> </script>
-</section>
-
-
-<section>
-  <h1>Latest Tweets</h1>
-  <ul id="tweets">
-    <li class="loading">Status updating...</li>
-  </ul>
-  <script type="text/javascript">
-    $.domReady(function(){
-      getTwitterFeed("cbhl", 4, false);
-    });
-  </script>
-  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
-  
-    <a href="http://twitter.com/cbhl" class="twitter-follow-button" data-show-count="false">Follow @cbhl</a>
-  
 </section>
 
 
