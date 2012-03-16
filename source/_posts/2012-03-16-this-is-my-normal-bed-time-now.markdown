@@ -4,7 +4,6 @@ title: "This Is My Normal Bed Time Now"
 date: 2012-03-16 08:00
 comments: true
 categories: Life
-published: false
 ---
 
 tl;dr: Sleep is good. RTM, Google Calendar, Inbox Zero. VeloCity vs mathNEWS.
