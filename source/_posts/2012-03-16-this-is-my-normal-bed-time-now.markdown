@@ -65,5 +65,3 @@ So, it's like, 7:59 AM, EDT. Normally, this would be bedtime for this term.
 Except, there's an 8:30 AM lab today. So sleep will have to wait a few more
 hours. Alas.
 
-
-Feb 25... 2 weeks
