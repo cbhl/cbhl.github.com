@@ -26,6 +26,12 @@ How will you change the world today?
 <p style="text-align: right">!able</p>
 
 [1] J. Kalpin, "Why High School is Too Easy," <em>The Iron Warrior</em>, vol. 33, no. 4, pp. 10, Mar. 2012.
-[2] P. Bronson. (2007, Feb. 11). <em>How Not to Talk to Your Kids</em> [Online]. Available: http://nymag.com/news/features/27840/
-[3] Roman. (2008, Oct. 9). <em>The Disadvantages of High School Programming</em> [Online]. Available: http://compsci.ca/blog/the-disadvantages-of-high-school-programming/
-[4] D. Hu. (2012, Jan. 2). <em>My Internship at Khan Academy</em> [Online]. Available: http://www.youtube.com/watch?v=fUiHSaoXQOs
+
+[2] P. Bronson. (2007, Feb. 11). <em>How Not to Talk to Your Kids</em> [Online]. Available:
+[http://nymag.com/news/features/27840/](http://nymag.com/news/features/27840/)
+
+[3] Roman. (2008, Oct. 9). <em>The Disadvantages of High School Programming</em> [Online]. Available:
+[http://compsci.ca/blog/the-disadvantages-of-high-school-programming/](http://compsci.ca/blog/the-disadvantages-of-high-school-programming)
+
+[4] D. Hu. (2012, Jan. 2). <em>My Internship at Khan Academy</em> [Online]. Available:
+[http://www.youtube.com/watch?v=fUiHSaoXQOs](http://www.youtube.com/watch?v=fUiHSaoXQOs)
