@@ -6,7 +6,7 @@ comments: true
 categories: mathNEWS
 ---
 _I originally wrote this article for
-[Volume 118, Issue 3](http://mathnews.uwaterloo.ca/wordpress/?p=2464)
+[Volume 118, Issue 5](http://mathnews.uwaterloo.ca/wordpress/?p=2464)
 of mathNEWS._
 
 Like it or not, University acts as a filter. Upper-year classes are often hollow shells of their first-year selves, as students are hemorrhaged over the terms. In [1], Kalpin argues that students' failures are the result of an inadequate secondary school system. In this article, we hope to propose alternate hypotheses and paradigms for this "problem".
