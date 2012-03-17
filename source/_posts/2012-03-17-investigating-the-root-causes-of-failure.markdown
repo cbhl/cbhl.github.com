@@ -1,10 +1,14 @@
 ---
 layout: post
 title: "Investigating the Root Causes of Failure"
-date: 2012-03-12 23:18
+date: 2012-03-17 03:00
 comments: true
-categories: 
+categories: mathNEWS
 ---
+_I originally wrote this article for
+[Volume 118, Issue 3](http://mathnews.uwaterloo.ca/wordpress/?p=2464)
+of mathNEWS._
+
 Like it or not, University acts as a filter. Upper-year classes are often hollow shells of their first-year selves, as students are hemorrhaged over the terms. In [1], Kalpin argues that students' failures are the result of an inadequate secondary school system. In this article, we hope to propose alternate hypotheses and paradigms for this "problem".
 
 First, we note that Kalpin's argument considers a specific case, and does not consider students who do not enter the University from an Ontario High School. In particular, a number of students are admitted from other post-secondary institutions, CEGEP, other provinces, and from abroad. Without demonstrable evidence that these groups are doing better than students who enter immediately after obtaining their OSSD, it's hard to conclude that the school system is at fault.
