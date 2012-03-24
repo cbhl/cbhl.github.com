@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Waterloo | azure sky]]></title>
+  <link href="http://blog.azuresky.ca/blog/categories/waterloo/atom.xml" rel="self"/>
+  <link href="http://blog.azuresky.ca/"/>
+  <updated>2012-03-24T04:41:17+00:00</updated>
+  <id>http://blog.azuresky.ca/</id>
+  <author>
+    <name><![CDATA[Michael Chang]]></name>
+    <email><![CDATA[michael.chang@azuresky.ca]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Software Engineering Design Symposium 2012]]></title>
+    <link href="http://blog.azuresky.ca/blog/2012/03/software-engineering-design-symposium-2012/"/>
+    <updated>2012-03-23T22:05:00+00:00</updated>
+    <id>http://blog.azuresky.ca/blog/2012/03/software-engineering-design-symposium-2012</id>
+    <content type="html"><![CDATA[<p><img src="http://blog.azuresky.ca/images/WP_000248.jpg" alt="Software Engineering Design Symposium 2012" /></p>
+
+<p>Today, fourth-year Software Engineering students showed off the fourth-year
+design projects they've been working on over the last three terms,
+demonstrating the scope of what they've learned over the past five years
+they've spent at the University of Waterloo.</p>
+
+<h2>Michael's Picks</h2>
+
+<p>For future reference, here are a few that I liked:</p>
+
+<h3>Team 5: Synthesizing Iterators from Declarative Abstraction Functions (Whyness)</h3>
+
+<ul>
+<li>Research-focused</li>
+<li>Code that generates code</li>
+<li>Elegant poster</li>
+</ul>
+
+
+<h3>Team 6: Locally Integrated Multi-Brain Systems (Causal)</h3>
+
+<ul>
+<li>Pretty colours!</li>
+<li>Real client: professor from political science dept.</li>
+<li>Feels like "magic"</li>
+<li>Clever undo/redo architecture to handle black-box components (not just command or memento patterns)</li>
+</ul>
+
+
+<h3>Team 7: Pathways (Deferred)</h3>
+
+<ul>
+<li>Proxy client: real client in London, UK; local professor with domain knowledge represented during meetings</li>
+<li>Replicated diagrams shown in client's research papers; added graphical editing (direct manip.)</li>
+</ul>
+
+
+<h3>Team 10: Verifyy</h3>
+
+<ul>
+<li>Chopsticks (tactile prop) for demo -- keeps visitors engaged</li>
+</ul>
+
+
+<h3>Team 18: Chronostation (Symphony)</h3>
+
+<ul>
+<li>Branching undo/redo/replay for learning how to draw</li>
+<li>Reasonably simple mental model</li>
+<li>Rough around the edges wrt UX, but functionally complete</li>
+</ul>
+
+
+<h2>Tips From 4Bs</h2>
+
+<ul>
+<li>Start early</li>
+<li>Choose members based on shared interests
+
+<ul>
+<li>Temptation to choose people you already know</li>
+<li>Friends might not be equally invested in your project ideas / your interests
+
+<ul>
+<li>Work might not be distributed evenly if someone isn't passionate</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Communicate expectations clearly and regularly
+
+<ul>
+<li>What technologies used?</li>
+<li>Level of familiarity with technologies, on-boarding time
+
+<ul>
+<li>e.g. Should you really use django if you're the only person on your team that knows Python?</li>
+</ul>
+</li>
+<li>What got done this week (ala scrum/agile)</li>
+</ul>
+</li>
+<li>Meet often
+
+<ul>
+<li>Living together &#x21d4; impromptu meetings</li>
+<li>Telecommuting &#x21d4; out of sight, out of mind</li>
+</ul>
+</li>
+<li>Coordinate electives
+
+<ul>
+<li>If everyone takes real-time (trains), shared deadlines will be stressful</li>
+</ul>
+</li>
+<li>Research competitors early
+
+<ul>
+<li>Helps avoid late-stage (i.e. 4A) redesigns</li>
+</ul>
+</li>
+<li>Have a good client</li>
+<li>Ladies: During symposium, wear comfortable shoes (flats, not heels!)
+
+<ul>
+<li>Standing for a good eight to ten hours; grad ball the next night in the worst case</li>
+</ul>
+</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
