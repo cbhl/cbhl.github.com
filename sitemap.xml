@@ -49,8 +49,14 @@
         <lastmod>2012-03-17T04:49:37+00:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://blog.azuresky.ca/blog/2012/03/software-engineering-design-symposium-2012/
+        </loc>
+        <lastmod>2012-03-24T04:40:26+00:00</lastmod>
+    </url>
+    <url>
         <loc>http://blog.azuresky.ca/blog/archives/</loc>
-        <lastmod>2012-03-17T04:49:37+00:00</lastmod>
+        <lastmod>2012-03-24T04:40:26+00:00</lastmod>
     </url>
     <url>
         <loc>http://blog.azuresky.ca/resume/gmail.html</loc>
@@ -78,6 +84,6 @@
     </url>
     <url>
         <loc>http://blog.azuresky.ca/</loc>
-        <lastmod>2012-03-17T04:49:37+00:00</lastmod>
+        <lastmod>2012-03-24T04:40:26+00:00</lastmod>
     </url>
 </urlset>
