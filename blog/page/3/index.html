@@ -9,7 +9,7 @@
   <meta name="author" content="Michael Chang">
 
   
-  <meta name="description" content="I originally wrote this article for Volume 118, Issue 2 of mathNEWS. Last week, nearly two dozen students represented Waterloo at the Canadian &hellip;">
+  <meta name="description" content="I originally wrote this article for Volume 118, Issue 2 of mathNEWS. I wonder when 4 GB+ virtual machine images became the norm in CS classes at &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -68,6 +68,64 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/01/zsync-client-side-rsync-over-http/">Zsync: Client-side Rsync Over HTTP</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-01-27T05:03:00+00:00" pubdate data-updated="true">Jan 27<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p> <em>I originally wrote this article for Volume 118, Issue 2 of mathNEWS.</em></p>
+
+<p>I wonder when 4 GB+ virtual machine images became the norm in CS classes at this institution, but it&#8217;s clear that the network infrastructure outside of campus is clearly not ready to handle dozens of students downloading such large files all at once.</p>
+
+<p>zsync is a tool that uses the rsync algorithm to download a file from a server, but with pre-computed metadata to help the algorithm scale well (and run over regular web servers). This allows users to resume incomplete downloads and verify your file is complete in one step. Packages may be available for your Linux distribution of choice. As of the time of writing, it&#8217;s available on homebrew (Mac) and Cygwin (Windows) as well. Sources can also be downloaded from <a href="http://zsync.moria.org.uk/downloads">http://zsync.moria.org.uk/downloads</a>.</p>
+
+<p>I first ran into zsync when I was downloading a Ubuntu release, and I&#8217;ve started using it over jigdo.</p>
+
+<p>For TAs and support staff, making content available by zsync is straightforward. Simply run:</p>
+
+<p><code>zsyncmake -C -e -u <em>&lt;url&gt;</em> <em>&lt;file&gt;</em></code></p>
+
+<p>For example, for the CS 136 VM, one could run:</p>
+
+<p><code>zsyncmake -C -e -u http://www.student.cs.uwaterloo.ca/~cs136/VirtualMachine/CS136.ova ~cs136/public_html/VirtualMachine/CS136.ova</code></p>
+
+<p>This creates a <em>&lt;file&gt;.zsync</em> file containing metadata and checksums which the zsync client can use. Simply make this file available in public_html (perhaps in the same folder as the Open Virtualization Archive (OVA) itself).</p>
+
+<p>For students, once zsync is installed, downloading a file is as simple as</p>
+
+<p><code>zsync <em>&lt;url&gt;</em></code></p>
+
+<p>Where <em>&lt;url&gt;</em> is the URL of the .zsync metadata file. The man page contains details on other flags, which may be useful if you are resuming an incomplete download or trying to sync from a file with a different name and similar contents (e.g. a previous version of a virtual machine).</p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -329,6 +387,10 @@ decision is yours to make.</p>
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2012/04/investigating-the-root-causes-of-failure-part-2/">Investigating the Root Causes of Failure: Part 2</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2012/03/software-engineering-design-symposium-2012/">Software Engineering Design Symposium 2012</a>
       </li>
     
@@ -342,10 +404,6 @@ decision is yours to make.</p>
     
       <li class="post">
         <a href="/blog/2012/03/lndr-dot-me-for-windows-phone-7/">Lndr.me for Windows Phone 7</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/02/oven-baked-grilled-cheese/">Oven-Baked Grilled Cheese</a>
       </li>
     
   </ul>

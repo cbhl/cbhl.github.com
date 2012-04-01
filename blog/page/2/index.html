@@ -11,9 +11,8 @@
   
   <meta name="description" content="Preheat oven to 400 F (205 C)
 Line a cookie sheet with aluminum foil.
-Wash 10 asparagus shoots (about half a bunch) and trim the
-bottom 1cm.
-Wrap &hellip;">
+Spread four slices of bread with mayonaise on the &#8220;outer&#8221;
+edges ( &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -72,6 +71,68 @@ Wrap &hellip;">
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/02/oven-baked-grilled-cheese/">Oven-Baked Grilled Cheese</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-02-25T08:25:00+00:00" pubdate data-updated="true">Feb 25<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><ol>
+<li>Preheat oven to <strong>400 F (205 C)</strong></li>
+<li>Line a <strong>cookie sheet</strong> with <strong>aluminum foil</strong>.</li>
+<li>Spread <strong>four slices of bread</strong> with <strong>mayonaise</strong> on the &#8220;outer&#8221;
+edges (since you&#8217;ll be making sandwiches).</li>
+<li>Place a <strong>cheese slice</strong> between each pair of slices of bread,
+laying the sandwiches on the cookie sheet.</li>
+<li>Bake for <strong>four to six minutes</strong>, then <strong>flip</strong> the sandwiches
+and bake for <strong>another three to five minutes</strong>. Note that the
+sandwich will brown on the bottom (the side facing the foil), and
+not on the visible (top) side when it&#8217;s in the oven.</li>
+</ol>
+
+
+<h2>Tips and Suggestions</h2>
+
+<ul>
+<li>Use real mayonaise, not &#8220;salad dressing&#8221;, as this intended to
+promote browning and needs a decent fat content. If mayonaise is
+not available, you could probably substitute margarine or butter.</li>
+<li>I tested this with &#8220;Thin Sandwich&#8221; bread, which has 24 slices in a
+single loaf, and with &#8220;Thick&#8221; cheese slices. You&#8217;ll want to adjust
+the baking time and temperature if using something different.</li>
+<li>You can probably fit three sandwiches on a cookie sheet, but I
+can&#8217;t eat that much all at once.</li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -330,64 +391,6 @@ and that it&#8217;s funny. Until then, think before you post.</p>
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/01/zsync-client-side-rsync-over-http/">Zsync: Client-side Rsync Over HTTP</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-01-27T05:03:00+00:00" pubdate data-updated="true">Jan 27<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p> <em>I originally wrote this article for Volume 118, Issue 2 of mathNEWS.</em></p>
-
-<p>I wonder when 4 GB+ virtual machine images became the norm in CS classes at this institution, but it&#8217;s clear that the network infrastructure outside of campus is clearly not ready to handle dozens of students downloading such large files all at once.</p>
-
-<p>zsync is a tool that uses the rsync algorithm to download a file from a server, but with pre-computed metadata to help the algorithm scale well (and run over regular web servers). This allows users to resume incomplete downloads and verify your file is complete in one step. Packages may be available for your Linux distribution of choice. As of the time of writing, it&#8217;s available on homebrew (Mac) and Cygwin (Windows) as well. Sources can also be downloaded from <a href="http://zsync.moria.org.uk/downloads">http://zsync.moria.org.uk/downloads</a>.</p>
-
-<p>I first ran into zsync when I was downloading a Ubuntu release, and I&#8217;ve started using it over jigdo.</p>
-
-<p>For TAs and support staff, making content available by zsync is straightforward. Simply run:</p>
-
-<p><code>zsyncmake -C -e -u <em>&lt;url&gt;</em> <em>&lt;file&gt;</em></code></p>
-
-<p>For example, for the CS 136 VM, one could run:</p>
-
-<p><code>zsyncmake -C -e -u http://www.student.cs.uwaterloo.ca/~cs136/VirtualMachine/CS136.ova ~cs136/public_html/VirtualMachine/CS136.ova</code></p>
-
-<p>This creates a <em>&lt;file&gt;.zsync</em> file containing metadata and checksums which the zsync client can use. Simply make this file available in public_html (perhaps in the same folder as the Open Virtualization Archive (OVA) itself).</p>
-
-<p>For students, once zsync is installed, downloading a file is as simple as</p>
-
-<p><code>zsync <em>&lt;url&gt;</em></code></p>
-
-<p>Where <em>&lt;url&gt;</em> is the URL of the .zsync metadata file. The man page contains details on other flags, which may be useful if you are resuming an incomplete download or trying to sync from a file with a different name and similar contents (e.g. a previous version of a virtual machine).</p>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/3/">&larr; Older</a>
@@ -405,6 +408,10 @@ and that it&#8217;s funny. Until then, think before you post.</p>
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2012/04/investigating-the-root-causes-of-failure-part-2/">Investigating the Root Causes of Failure: Part 2</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2012/03/software-engineering-design-symposium-2012/">Software Engineering Design Symposium 2012</a>
       </li>
     
@@ -418,10 +425,6 @@ and that it&#8217;s funny. Until then, think before you post.</p>
     
       <li class="post">
         <a href="/blog/2012/03/lndr-dot-me-for-windows-phone-7/">Lndr.me for Windows Phone 7</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/02/oven-baked-grilled-cheese/">Oven-Baked Grilled Cheese</a>
       </li>
     
   </ul>
