@@ -4,7 +4,7 @@
   <title><![CDATA[azure sky]]></title>
   <link href="http://blog.azuresky.ca/atom.xml" rel="self"/>
   <link href="http://blog.azuresky.ca/"/>
-  <updated>2012-04-01T16:03:40+00:00</updated>
+  <updated>2012-04-02T11:02:24+00:00</updated>
   <id>http://blog.azuresky.ca/</id>
   <author>
     <name><![CDATA[Michael Chang]]></name>
@@ -12,6 +12,61 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Oven-Baked Hard-Boiled Eggs]]></title>
+    <link href="http://blog.azuresky.ca/blog/2012/04/oven-baked-hard-boiled-eggs/"/>
+    <updated>2012-04-02T10:52:00+00:00</updated>
+    <id>http://blog.azuresky.ca/blog/2012/04/oven-baked-hard-boiled-eggs</id>
+    <content type="html"><![CDATA[<p><em>Adapted from <a href="http://www.food.com/recipe/hard-cooked-eggs-in-the-oven-baked-eggs-61856">food.com</a></em></p>
+
+<ol>
+<li>Place oven rack in the center of the oven. Place <strong>eggs</strong> on the racks.</li>
+<li>Place a <strong>cookie sheet</strong> (lined with foil!) underneath the eggs&#8230; just in
+case one explodes, cracks, or leaks while cooking.</li>
+<li>Set oven to <strong>325 &deg;F</strong> for <strong>30 minutes</strong>.</li>
+<li>Remove eggs from oven and place in <strong>ice-cold water</strong>. Peel as soon as they
+are cool enough to handle, then return to the water to thoroughly chill.</li>
+</ol>
+
+
+<h2>Tips and Suggestions</h2>
+
+<ul>
+<li>How many eggs? About a dozen is about right. Too few (less than six) and
+you&#8217;re probably better off with a pot of water; too many (two dozen or more)
+and your oven will be a bit crowded.</li>
+<li>No ice? Instead, place the bowl in the sink, and leave the water running over
+the eggs.</li>
+<li>Too many hard-boiled eggs? Try making <a href="http://blog.azuresky.ca/blog/2012/04/simple-egg-salad/">egg salad</a>!</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Simple Egg Salad]]></title>
+    <link href="http://blog.azuresky.ca/blog/2012/04/simple-egg-salad/"/>
+    <updated>2012-04-02T10:48:00+00:00</updated>
+    <id>http://blog.azuresky.ca/blog/2012/04/simple-egg-salad</id>
+    <content type="html"><![CDATA[<ol>
+<li>Coarsely chop <strong>6 hard-boiled eggs</strong>. A butter knife works well for this.</li>
+<li>Add <strong>2 tablespoons mayonaise</strong>.</li>
+<li>Mix well. Serve.</li>
+</ol>
+
+
+<h2>Tips and Suggestions</h2>
+
+<ul>
+<li>For the adventureous, try adding a dash of curry or paprika before mixing.</li>
+<li>Real mayonaise is better than &#8220;salad dressing&#8221;.</li>
+<li>Some like to add finely chopped celery to egg salad. I find it messes up the
+texture, but your mileage may vary.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Investigating the Root Causes of Failure: Part 2]]></title>

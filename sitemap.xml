@@ -61,8 +61,16 @@
         <lastmod>2012-04-01T16:02:02+00:00</lastmod>
     </url>
     <url>
+        <loc>http://blog.azuresky.ca/blog/2012/04/simple-egg-salad/</loc>
+        <lastmod>2012-04-02T10:52:05+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.azuresky.ca/blog/2012/04/oven-baked-hard-boiled-eggs/</loc>
+        <lastmod>2012-04-02T11:00:55+00:00</lastmod>
+    </url>
+    <url>
         <loc>http://blog.azuresky.ca/blog/archives/</loc>
-        <lastmod>2012-04-01T16:02:02+00:00</lastmod>
+        <lastmod>2012-04-02T11:00:55+00:00</lastmod>
     </url>
     <url>
         <loc>http://blog.azuresky.ca/resume/gmail.html</loc>
@@ -90,6 +98,6 @@
     </url>
     <url>
         <loc>http://blog.azuresky.ca/</loc>
-        <lastmod>2012-04-01T16:02:02+00:00</lastmod>
+        <lastmod>2012-04-02T11:00:55+00:00</lastmod>
     </url>
 </urlset>
