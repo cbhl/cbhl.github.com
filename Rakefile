@@ -8,7 +8,8 @@ ssh_user       = "cbhl_azuresky@ssh.phx.nearlyfreespeech.net"
 ssh_port       = "22"
 document_root  = "/home/public/"
 rsync_delete   = true
-deploy_default = "push"
+# deploy_default = "push" # Github Pages
+deploy_default = "rsync"
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "master"
