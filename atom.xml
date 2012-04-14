@@ -4,7 +4,7 @@
   <title><![CDATA[azure sky]]></title>
   <link href="http://blog.azuresky.ca/atom.xml" rel="self"/>
   <link href="http://blog.azuresky.ca/"/>
-  <updated>2012-04-05T02:52:28+00:00</updated>
+  <updated>2012-04-14T19:25:22+00:00</updated>
   <id>http://blog.azuresky.ca/</id>
   <author>
     <name><![CDATA[Michael Chang]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[An Experiment]]></title>
+    <link href="http://blog.azuresky.ca/blog/2012/04/an-experiment/"/>
+    <updated>2012-04-05T04:14:00+00:00</updated>
+    <id>http://blog.azuresky.ca/blog/2012/04/an-experiment</id>
+    <content type="html"><![CDATA[<p>I&#8217;ve been running this blog on GitHub Pages with Octopress for nearly three
+months now. Since Octopress is built on Jekyll, a static site generator, I&#8217;ve
+been thinking that there are other ways of hosting static files that may be
+worth experimenting with.</p>
+
+<p>So, I&#8217;m hosting a copy of this site on
+<a href="https://www.nearlyfreespeech.net/">nearlyfreespeech.net</a> as an experiment.
+We&#8217;ll see how it goes.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Oven-Baked Hard-Boiled Eggs]]></title>
