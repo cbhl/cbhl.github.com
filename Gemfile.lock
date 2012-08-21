@@ -46,8 +46,12 @@ GEM
       rack (~> 1.3, >= 1.3.6)
       rack-protection (~> 1.2)
       tilt (~> 1.3, >= 1.3.3)
+    slim (1.2.2)
+      temple (~> 0.4.0)
+      tilt (~> 1.3.3)
     stringex (1.4.0)
     syntax (1.0.0)
+    temple (0.4.0)
     tilt (1.3.3)
 
 PLATFORMS
@@ -66,4 +70,5 @@ DEPENDENCIES
   rdiscount (~> 1.6.8)
   rubypants (~> 0.2.0)
   sinatra (~> 1.3.2)
+  slim
   stringex (~> 1.4.0)
