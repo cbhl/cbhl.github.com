@@ -3,12 +3,10 @@ layout: post
 title: "Investigating the Root Causes of Failure: Part 2"
 date: 2012-04-01 15:50
 comments: true
-categories: mathNEWS
+categories: mathNEWS waterloo
 ---
 
-_I originally wrote this article for
-<!-- [Volume 118, Issue 6](http://mathnews.uwaterloo.ca/wordpress/?p=2696) -->
-[Volume 118, Issue 6](http://mathnews.uwaterloo.ca/) of mathNEWS._
+_I originally wrote this article for Volume 118, Issue 6 of mathNEWS._
 
 We see that in [1], Kalpin continues to detail his wild and unscientific
 proposals for the post-secondary school system. While it's apparent that Kalpin
