@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On the Raspberry Pi"
-date: 2012-10-10 19:52
+date: 2012-09-21 08:00
 comments: true
 categories: mathNEWS life
 ---
