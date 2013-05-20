@@ -28,4 +28,3 @@ categories: Life
 - Sleep doesn't occur consistently.
 - Waking from sleep sometimes experiences delays of an hour or more.
 - Occasionally sleep-talks.
-- 
