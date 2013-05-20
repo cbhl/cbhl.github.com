@@ -6,6 +6,8 @@ comments: true
 categories: Life
 ---
 
+Hey, a week late is better than never, right?
+
 ### What's New?
 - Over 150 new Facebook Friends
 - Engineering Ambassador role added.
