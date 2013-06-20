@@ -72,13 +72,13 @@ By the way:
 - Moral and publicity rights allow *you* to prevent the photographer from using
   the photo in ways that you don't want. (IIRC, moral rights are a Canadian
   concept and do not exist in the US.)
-- Under Facebook's [Statement of Rights and 
-  Responsibilities](https://www.facebook.com/legal/terms), subsection 2.1 reads,
-  "For content that is covered by intellectual property rights, like photos ...
-  you grant us a non-exclusive, transferable, sub-licensable, royalty-free,
-  worldwide license to use [the photos]." Because you don't own the copyright, you
-  can't grant this license to Facebook. So delete those photos from Facebook,
-  until you have the copyright transferred to you in writing.
+- Under Facebook's[Statement of Rights and Responsibilities][0], subsection 2.1
+  reads, "For content that is covered by intellectual property rights, like
+  photos ...  you grant us a non-exclusive, transferable, sub-licensable,
+  royalty-free, worldwide license to use [the photos]." Because you don't own
+  the copyright, you can't grant this license to Facebook. So delete those
+  photos from Facebook, until you have the copyright transferred to you in
+  writing.
 
 **P.S.** If you hated dealing with the grad photo booking and ordering systems
 at least as much as I did, consider rebooting your Fourth Year Design
@@ -91,3 +91,5 @@ something technically interesting ("cool") -- damn the bureaucracy -- you
 may as well build something that will make people's lives a little bit easier.
 
 [/rant]
+
+  [0](https://www.facebook.com/legal/terms)
