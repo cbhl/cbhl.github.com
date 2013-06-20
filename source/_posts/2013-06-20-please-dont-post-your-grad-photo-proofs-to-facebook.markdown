@@ -56,12 +56,13 @@ cubic) interpolation, and waiting for an order before doing touch-ups.
 
 What drove me over the edge, and led me to write this post at 3 AM, is the one
 person -- someone who I otherwise deeply respect, technically -- that chose
-to *crop the watermark out of the photo*. First, the cropping completely ruins
-the framing and composition of the photo. Second, the whole point of the
-watermark is to deter you from using the proof for unintended uses -- such as,
-putting it up as your profile picture on Facebook. Could you not have waited the
-four weeks for paper copies and scanned one of those? We don't even graduate for
-another 11 months -- posting grad photos can wait.
+to *crop the watermark out of their proof and set it as their display picture*.
+First, the cropping completely ruins the framing and composition of the photo.
+Second, the whole point of the watermark is to deter you from using the proof
+for unintended uses -- such as, putting it up as your profile picture on
+Facebook. Could you not have waited the four weeks for paper copies and scanned
+one of those? We don't even graduate for another 11 months -- posting grad
+profile photos can wait.
 
 By the way:
 
