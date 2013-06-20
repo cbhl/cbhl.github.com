@@ -89,3 +89,4 @@ until symposium.  We are all in fourth year. If you're not going to build
 something technically interesting ("cool") -- damn the bureaucracy -- you
 may as well build something that will make people's lives a little bit easier.
 
+[/rant]
