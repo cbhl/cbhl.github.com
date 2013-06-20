@@ -30,7 +30,7 @@ reality is that I use a lot of proprietary software (GitHub, Dropbox, Pushover,
 Remember the Milk, Google Music, XBox Live, Halo 4, FEZ, ilomilo, and -- as much
 as I hate to admit it -- the odd copy of Windows 8 and Microsoft Office). I make
 a point to only use proprietary software if I have a valid license for it. If I
-don't on a valid license, I either buy one, or I don't use the software.  To do
+don't own a valid license, I either buy one, or I don't use the software.  To do
 anything else would be hypocritical. I expect that my classmates, some of whom
 may seek out their P. Eng, operate under similar principles.
 
