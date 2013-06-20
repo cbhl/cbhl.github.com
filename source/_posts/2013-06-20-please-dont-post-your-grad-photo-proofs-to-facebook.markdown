@@ -55,7 +55,7 @@ turn-around time. That usually means using a bulk editing script, linear (not
 cubic) interpolation, and waiting for an order before doing touch-ups.
 
 What drove me over the edge, and led me to write this post at 3 AM, is the one
-person -- someone who I otherwise deeply respect, technically -- chose
+person -- someone who I otherwise deeply respect, technically -- that chose
 to *crop the watermark out of the photo*. First, the cropping completely ruins
 the framing and composition of the photo. Second, the whole point of the
 watermark is to deter you from using the proof for unintended uses -- such as,
