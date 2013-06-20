@@ -79,7 +79,7 @@ By the way:
   can't grant this license to Facebook. So delete those photos from Facebook,
   until you have the copyright transferred to you in writing.
 
-P.S. If you hated dealing with the grad photo booking and ordering systems
+**P.S.** If you hated dealing with the grad photo booking and ordering systems
 at least as much as I did, consider rebooting your Fourth Year Design
 Project to build a more usable and secure system for grad photo booking and ordering. Even if
 Newschool Photograph decides they don't want to be your customer, you can
