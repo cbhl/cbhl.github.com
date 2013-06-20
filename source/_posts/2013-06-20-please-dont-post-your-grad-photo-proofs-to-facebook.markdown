@@ -43,12 +43,11 @@ copy of Apple's Aperture.)
 
 The resulting conclusion? I think it's a big problem to take proofs from a
 photographer and put them on Facebook, and then turn around and expect them to
-pay for software. So we need to make sure we compensate photographers reasonably
-for the service they provide. They sat in that tiny room in the Davis Centre all
-day, despite the many people who decided to cancel the morning of their
-appointment. Plus, they had all those lights, the camera, the sash, the gown,
-and that strange backdrop machine all ready to go so you could be in and out in
-ten minutes.
+pay for software. We need to compensate photographers properly for the service
+they provide. They sat in that tiny room in the Davis Centre all day, despite
+the many people who decided to cancel the morning of their appointment. Plus,
+they had all those lights, the camera, the sash, the gown, and that strange
+backdrop machine all ready to go so you could be in and out in ten minutes.
 
 The photographers I know wouldn't want you to display proofs publicly. They
 optimize the process for creating proofs so that they can have a fast
