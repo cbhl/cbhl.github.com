@@ -72,7 +72,7 @@ By the way:
 - Moral and publicity rights allow *you* to prevent the photographer from using
   the photo in ways that you don't want. (IIRC, moral rights are a Canadian
   concept and do not exist in the US.)
-- Under Facebook's[Statement of Rights and Responsibilities][0], subsection 2.1
+- Under Facebook's [Statement of Rights and Responsibilities][0], subsection 2.1
   reads, "For content that is covered by intellectual property rights, like
   photos ...  you grant us a non-exclusive, transferable, sub-licensable,
   royalty-free, worldwide license to use [the photos]." Because you don't own
