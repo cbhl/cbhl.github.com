@@ -92,4 +92,4 @@ may as well build something that will make people's lives a little bit easier.
 
 [/rant]
 
-  [0](https://www.facebook.com/legal/terms)
+  [0]:(https://www.facebook.com/legal/terms)
