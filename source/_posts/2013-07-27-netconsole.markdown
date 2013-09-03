@@ -4,6 +4,7 @@ title: "netconsole"
 date: 2013-07-27 15:29
 comments: true
 categories: 
+published: false
 ---
 
 [0] https://www.kernel.org/doc/Documentation/networking/netconsole.txt
