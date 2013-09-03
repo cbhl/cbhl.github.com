@@ -6,6 +6,12 @@ comments: true
 categories: school
 ---
 
+**Update:** Newschool Photography [sent me a response][update] to this post. I
+admit that the arguments I used below are flawed, but at the end of the day
+what matters is that we support the content creators that provide value to us
+-- whether they are photographers, software developers, musicians, or
+filmmakers. The text of my original rant follows.
+
 Disclaimer: IANAL.
 
 Several students in my class recieved their Grad Photo Proofs today. You
@@ -92,4 +98,5 @@ may as well build something that will make people's lives a little bit easier.
 
 [/rant]
 
-  [0]:(https://www.facebook.com/legal/terms)
+  [0]: https://www.facebook.com/legal/terms
+  [update]: /blog/2013/09/re-grad-photo-proofs/
